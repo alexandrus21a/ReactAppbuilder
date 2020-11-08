@@ -41,7 +41,7 @@
     "react-sortable-tree": "2.2.0",
     "react-table": "6.8.6",
     "recompose": "0.26.0",
-    "superagent": "3.5.1",
+    "superagent": "3.7.0",
     "to-case": "2.0.0"
   },
   "devDependencies": {
