@@ -1,5 +1,5 @@
 ## React App Builder
-[![](https://img.shields.io/website?down_color=red&down_message=Offline&up_message=Online&url=https%3A%2F%2Falexandrus21a.github.io%2F)](https://alexandrus21a.github.io/)
+[![](https://img.shields.io/website?down_color=red&down_message=Offline&up_message=Online&url=https%3A%2F%2Falexandrus21.vercel.app%2F)](https://alexandrus21.vercel.app/)
 [![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/Alexandrus21)
 ![](https://img.shields.io/github/license/Alexandrus21a/ReactAppbuilder)
 ![](https://img.shields.io/github/commit-status/Alexandrus21a/ReactAppbuilder/master/96e6889def78f1e6711588e04b5dd76e71031044?label=Build)
@@ -25,8 +25,8 @@ Start your online Mobile DIY business.
 
 ## Contributing
 
-Before **creating an issue**, please ensure that it hasn't already been reported/suggested, and double-check the [F.A.Q](https://alexandrus21a.github.io/faq.html).   
-And if you have a question, please ask it in the [Discord server](https://alexandrus21a.github.io/) instead of opening an issue.
+Before **creating an issue**, please ensure that it hasn't already been reported/suggested, and double-check the [F.A.Q](https://alexandrus21.vercel.app/faq.html).   
+And if you have a question, please ask it in the [Discord server](https://alexandrus21.vercel.app) instead of opening an issue.
 If you wish to contribute to the Atlanta codebase or documentation, feel free to fork the repository and submit a pull request!
 
 ## License
