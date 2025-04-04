@@ -1,0 +1,68 @@
+{
+    "name": "Affiliate Jacob Simple Bitcoin",
+    "symbol": "AJSB",
+    "description": "Affiliate Jacob Simple Bitcoin (AJSB) - A community-driven memecoin inspired by the simplicity of Bitcoin on the Solana blockchain!",
+    "image": "https://pump.mypinata.cloud/ipfs/QmYDP4hjhxLPrG2XGnzKd7pYD9VwaoaLCtbaQCjeCmeFMc?img-width=256&img-dpr=2&img-onerror=redirect",
+    "external_url": "https://ajsb.vercel.app",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Memecoin"
+      },
+      {
+        "trait_type": "Blockchain",
+        "value": "Solana"
+      },
+      {
+        "trait_type": "Launch Date",
+        "value": "April 2025"
+      },
+      {
+        "trait_type": "Supply Type",
+        "value": "Fixed"
+      },
+      {
+        "trait_type": "Max Supply",
+        "value": "1,000,000,000,000"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://pump.mypinata.cloud/ipfs/QmYDP4hjhxLPrG2XGnzKd7pYD9VwaoaLCtbaQCjeCmeFMc?img-width=256&img-dpr=2&img-onerror=redirect",
+          "type": "image/png"
+        },
+        {
+          "uri": "https://pump.mypinata.cloud/ipfs/QmYDP4hjhxLPrG2XGnzKd7pYD9VwaoaLCtbaQCjeCmeFMc?img-width=256&img-dpr=2&img-onerror=redirect", 
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "26gVA2zewn1yntEphVUTQPSZuReaQAabuViShEiWe9pd",
+          "share": 100
+        }
+      ]
+    },
+    "collection": {
+      "name": "Solana Memecoins",
+      "family": "Cryptocurrency"
+    },
+    "links": {
+      "website": "https://yourmemecoin.com",
+      "twitter": "https://twitter.com/YourMemecoin",
+      "telegram": "https://t.me/YourMemecoin",
+      "discord": "https://discord.gg/yourmemecoin"
+    },
+    "tokenomics": {
+      "initialSupply": 1000000000000,
+      "decimals": 9,
+      "distribution": {
+        "community": "80%",
+        "team": "10%",
+        "marketing": "5%",
+        "development": "5%"
+      }
+    }
+  }
